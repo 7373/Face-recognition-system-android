@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestUIActivity!</string>
+    <string name="app_name">AIVISION</string>
+
+    <string name="home_tv">主页</string>
+    <string name="style_tv">我</string>
+    <string name="shopping_tv">帮助</string>
+    <string name="show_tv">系统信息</string>
+
+
+    <string name="login_tv">登录</string>
+    <string name="regist_tv">注册</string>
+
+
+    <string name="index_looks_tv">登记入库/ENTERING</string>
+    <string name="index_looks_info_tv">	人脸建模/捕获</string>
+    <string name="index_shopping_tv">人脸检索/SEARCHING</string>
+    <string name="index_shopping_info_tv">	检索/跟踪</string>
+    <string name="index_show_tv">人脸对比/COMPARSION</string>
+    <string name="index_show_info_tv">人脸识别对比果</string>
+    <string name="index_search_tv">真人鉴别/IDENTIFY</string>
+    <string name="index_search_info_tv">真人鉴别</string>
+    <string name="index_browse_tv">图像质量检测/QA</string>
+    <string name="index_browse_info_tv">图像质量检测</string>
+
+
+    <string name="title">登鹳雀楼</string>
+    <string name="clear_flag">清除标记</string>
+
+
+    <string name="whats_new_start_fornew">立即进入</string>
+    <string name="whats_new_title_fornew_1">二十年前，长串的密码......</string>
+    <string name="whats_new_title_fornew_2">十年前，指纹......</string>
+    <string name="whats_new_title_fornew_3">"现在，一扫而过......"</string>
+    <string name="whats_new_title_fornew_4">"AIVISION--开启全新人脸安全时代！"</string>
+</resources>

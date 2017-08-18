@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bg.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\page_indicator_unfocused.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\whatisnew_pic_button_pressed.9.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\whatisnew_pic_button_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\whatsnew_08_01.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\whatsnew_08_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background_holo_dark.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\background_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\page_indicator_focused.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\whatisnew_pic_02.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\whatisnew_pic_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\whatsnew_08_02.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\whatsnew_08_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\whatisnew_pic_03.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\whatisnew_pic_03.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\whatisnew_pic_button_normal.9.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\whatisnew_pic_button_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\whatisnew_pic_01.png",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\whatisnew_pic_01.png"
+    }
+]

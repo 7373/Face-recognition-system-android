@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\whatsnew_fornew_bg.jpg",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\whatsnew_fornew_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\background_holo_dark.jpg",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\background_holo_dark.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\background_holo_dark2.jpg",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\drawable-hdpi\\background_holo_dark2.jpg"
+    }
+]

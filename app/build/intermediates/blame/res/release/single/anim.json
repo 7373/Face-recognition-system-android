@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_left_out.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_right_out.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_left_in.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_left.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_right.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_right_in.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    }
+]

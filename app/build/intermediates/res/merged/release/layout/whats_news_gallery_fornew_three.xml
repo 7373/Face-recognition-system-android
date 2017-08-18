@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/image_bg_man"
+        style="@style/whats_new_image_for_newuser"
+        android:src="@drawable/whatisnew_pic_03" />
+
+    <TextView
+        android:id="@+id/intro"
+        style="@style/whats_new_title_for_newuser"
+        android:text="@string/whats_new_title_fornew_3" />
+
+</RelativeLayout>

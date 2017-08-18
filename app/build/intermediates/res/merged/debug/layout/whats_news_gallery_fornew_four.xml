@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/whats_new_title_tv"
+        style="@style/whats_new_title_for_newuser"
+        android:text="@string/whats_new_title_fornew_4" />
+
+    <Button
+        android:id="@+id/whats_new_start_btn"
+        android:layout_width="160.0dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="160.0dip"
+        android:background="@drawable/whats_new_btn"
+        android:text="@string/whats_new_start_fornew"
+        android:textColor="@color/mm_whats_new_btn_text"
+        android:textSize="@dimen/Big_TextSize" />
+
+</RelativeLayout>

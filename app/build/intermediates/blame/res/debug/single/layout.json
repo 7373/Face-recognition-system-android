@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_user_layout.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\home_user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats_news_gallery_fornew_three.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\whats_news_gallery_fornew_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acitvity_layout.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\acitvity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats_news_gallery_fornew_one.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\whats_news_gallery_fornew_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_select_list_layout.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\home_select_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewflipper_layout.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\viewflipper_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_footbar_layout.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\home_footbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats_news_gallery_fornew_four.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\whats_news_gallery_fornew_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_title_layout.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\home_title_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_data_bar.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\home_data_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_bottom_menu_layout.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\home_bottom_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats_news_gallery_fornew_two.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\whats_news_gallery_fornew_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_ratio_img.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\home_ratio_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\whats_news.xml",
+        "source": "C:\\Users\\Apple\\Desktop\\android\\testUI2\\app\\src\\main\\res\\layout\\whats_news.xml"
+    }
+]
